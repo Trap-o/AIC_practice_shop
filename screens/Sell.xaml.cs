@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Controls;
 
-namespace AIC_shop
+namespace AIC_shop.screens
 {
     /// <summary>
     /// Interaction logic for Sell.xaml

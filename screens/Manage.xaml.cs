@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Windows;
 
-namespace AIC_shop
+namespace AIC_shop.screens
 {
     /// <summary>
     /// Interaction logic for Manage.xaml

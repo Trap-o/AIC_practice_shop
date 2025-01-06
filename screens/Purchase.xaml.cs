@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Controls;
 
 
-namespace AIC_shop
+namespace AIC_shop.screens
 {
     /// <summary>
     /// Interaction logic for Purchase.xaml

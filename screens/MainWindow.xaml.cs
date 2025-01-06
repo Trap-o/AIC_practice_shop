@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace AIC_shop
+namespace AIC_shop.screens
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

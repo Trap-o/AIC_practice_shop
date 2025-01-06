@@ -1,12 +1,12 @@
-﻿<Window x:Class="AIC_shop.Purchase"
+﻿<Window x:Class="AIC_shop.screens.Purchase"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:AIC_shop"
+        xmlns:local="clr-namespace:AIC_shop.screens"
         mc:Ignorable="d"
         Title="Purchase" Height="{x:Static SystemParameters.PrimaryScreenHeight}" Width="{x:Static SystemParameters.PrimaryScreenWidth}" WindowState="Maximized"
-        Padding="10" WindowStyle="None" WindowStartupLocation="CenterScreen" FontSize="20">
+        Padding="10" WindowStyle="None" WindowStartupLocation="CenterScreen" FontSize="20" Icon="/img/shopping-cart_3916627.png">
 
     <Grid Background="BlanchedAlmond">
         <Grid.ColumnDefinitions>

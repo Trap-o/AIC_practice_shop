@@ -1,11 +1,11 @@
-﻿<Window x:Class="AIC_shop.MainWindow"
+﻿<Window x:Class="AIC_shop.screens.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:AIC_shop"
+        xmlns:local="clr-namespace:AIC_shop.screens"
         mc:Ignorable="d"
-        Title="Store" Height="300" Width="400" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow">
+        Title="Store" Height="300" Width="400" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" Icon="/img/shopping-cart_3916627.png">
     <Grid Background="BlanchedAlmond">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
